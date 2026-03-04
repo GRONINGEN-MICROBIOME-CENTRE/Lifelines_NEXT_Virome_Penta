@@ -147,7 +147,7 @@ scripts/
 │       ├── Sequence_based_annotation/     # HMM matching (AntiDefenseFinder, PHROGs, KOfam)
 │       └── Structure_based_annotation/    # Structure prediction (ColabFold) and Foldseek search
 │
-└── Downstream_scripts/                   # Statistical analyses and figure generation
+└── F_Downstream_scripts/                   # Statistical analyses and figure generation
 
 ```
 ---
