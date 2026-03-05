@@ -5,7 +5,7 @@ Gut virome analysis from metagenomic data in the **Lifelines NEXT (LLNEXT)** mot
 
 <p align="center">
   <a href="https://umcgresearchdatacatalogue.nl/all/cohorts/LIFELINES_NEXT">
-    <img src="images/bioRxiv_logo.png" alt="Publication" height="35">
+    <img src="images/bioRxiv_logo.png" alt="Publication" height="39">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- added extra space -->
   <a href="https://doi.org/10.5281/zenodo.18874585">
