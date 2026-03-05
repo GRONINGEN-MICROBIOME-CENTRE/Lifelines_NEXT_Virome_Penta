@@ -106,11 +106,11 @@ The LLNEXT gut viral (LLNEXT-GV) and breastmilk (LLNEXT-BMV) catalogs are freely
 
 | File | Description | Link |
 |------|-------------|------|
-| `LLNEXT_GV_catalog.fa.gz` | LLNEXT-GV vOTU representative viral genomes | [Download](https://zenodo.org/record/18874585/files/LLNEXT_GV_catalog.fa.gz) |
+| `LLNEXT_GV_catalog.fa.gz` | LLNEXT-GV vOTU representative viral genomes (n=31,019) | [Download](https://zenodo.org/record/18874585/files/LLNEXT_GV_catalog.fa.gz) |
 | `LLNEXT_GV_catalog_metadata.tsv` | Metadata for all LLNEXT-GV species-level vOTUs | [Download](https://zenodo.org/record/18874585/files/LLNEXT_GV_catalog_metadata.tsv) |
-| `LLNEXT_only_gut_vOTU_representatives.fa.gz` | LLNEXT gut vOTU representative genomes (excluding external DBs) | [Download](https://zenodo.org/record/18874585/files/LLNEXT_only_gut_vOTU_representatives.fa.gz) |
-| `LLNEXT_only_gut_vOTU_all_genomes.fa.gz` | LLNEXT gut viral genomes after deduplication (excluding external DBs) | [Download](https://zenodo.org/record/18874585/files/LLNEXT_only_gut_vOTU_all_genomes.fa.gz) |
-| `LLNEXT_BMV_catalog.fa.gz` | LLNEXT-BMV representative viral genomes (breastmilk) | [Download](https://zenodo.org/record/18874585/files/LLNEXT_BMV_catalog.fa.gz) |
+| `LLNEXT_only_gut_vOTU_representatives.fa.gz` | LLNEXT gut vOTU representative genomes (excluding external DBs) (n=27,299) | [Download](https://zenodo.org/record/18874585/files/LLNEXT_only_gut_vOTU_representatives.fa.gz) |
+| `LLNEXT_only_gut_vOTU_all_genomes.fa.gz` | LLNEXT gut viral genomes after deduplication (excluding external DBs) (n=56,197) | [Download](https://zenodo.org/record/18874585/files/LLNEXT_only_gut_vOTU_all_genomes.fa.gz) |
+| `LLNEXT_BMV_catalog.fa.gz` | LLNEXT-BMV representative viral genomes (breastmilk) (n=248) | [Download](https://zenodo.org/record/18874585/files/LLNEXT_BMV_catalog.fa.gz) |
 | `LLNEXT_BMV_catalog_metadata.tsv` | Metadata for all LLNEXT-BMV species-level vOTUs | [Download](https://zenodo.org/record/18874585/files/LLNEXT_BMV_catalog_metadata.tsv) |
 
 ---
