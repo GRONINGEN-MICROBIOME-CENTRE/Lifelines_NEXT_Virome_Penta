@@ -9,7 +9,7 @@ Gut virome analysis from metagenomic data in the **Lifelines NEXT (LLNEXT)** mot
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://doi.org/10.5281/zenodo.18874585">
-    <img src="images/banner_cohort_paper.png" alt="LLNEXT-GV and LLNEXT_BMV catalogs" height="55">
+    <img src="Zenodo_logo.png" alt="LLNEXT-GV and LLNEXT_BMV catalogs" height="55">
   </a>
 </p>
 
