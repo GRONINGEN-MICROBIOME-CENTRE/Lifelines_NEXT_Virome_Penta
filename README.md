@@ -10,15 +10,15 @@ Gut virome analysis from metagenomic data in the **Lifelines NEXT (LLNEXT)** mot
 <table align="center">
 <tr>
 
-<td align="center" style="padding-right:40px;">
-<b>Publication</b><br>
+<td align="center" valign="top" style="padding-right:40px;">
+<div style="margin-bottom:6px;"><b>Publication</b></div>
 <a href="https://umcgresearchdatacatalogue.nl/all/cohorts/LIFELINES_NEXT">
 <img src="images/bioRxiv_logo.png" height="39">
 </a>
 </td>
 
-<td align="center" style="padding-left:40px;">
-<b>Viral datasets</b><br>
+<td align="center" valign="top" style="padding-left:40px;">
+<div style="margin-bottom:6px;"><b>Viral datasets</b></div>
 <a href="https://doi.org/10.5281/zenodo.18874585">
 <img src="images/zenodo_logo.png" height="45">
 </a>
