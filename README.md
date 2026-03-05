@@ -106,12 +106,12 @@ The LLNEXT gut viral (LLNEXT-GV) and breastmilk (LLNEXT-BMV) catalogs are freely
 
 | File | Description | Link |
 |------|-------------|------|
-| `LLNEXT_GV_vOTU_representatives.fna.gz` | LLNEXT-GV vOTU representative viral genomes | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_GV_representatives.fna.gz) |
-| `LLNEXT_GV_metadata.tsv` | Metadata for all LLNEXT-GV species-level vOTUs | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_GV_metadata.tsv) |
-| `LLNEXT_GV_vOTU_representatives_LLNEXT_only.fna.gz` | LLNEXT-GV vOTU representative viral genomes (excluding external DBs) | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_GV_representatives.fna.gz) |
-| `LLNEXT_GV_viral_genomes_LLNEXT_only.fna.gz` | LLNEXT-GV deduplicated viral genomes (excluding external DBs) | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_GV_representatives.fna.gz) |
-| `LLNEXT_BMV_representatives.fna.gz` | LLNEXT-BMV representative viral genomes (breastmilk metagenomes) | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_BMV_representatives.fna.gz) |
-| `LLNEXT_BMV_metadata.tsv` | Metadata for all LLNEXT-BMV species-level vOTUs | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_BMV_metadata.tsv) |
+| `LLNEXT_GV_catalog.fa.gz` | LLNEXT-GV vOTU representative viral genomes | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_GV_representatives.fna.gz) |
+| `LLNEXT_GV_catalog_metadata.tsv` | Metadata for all LLNEXT-GV species-level vOTUs | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_GV_metadata.tsv) |
+| `LLNEXT_only_gut_vOTU_representatives.fa.gz` | LLNEXT gut vOTU representative genomes (excluding external DBs) | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_GV_representatives.fna.gz) |
+| `LLNEXT_only_gut_vOTU_all_genomes.fa.gz` | LLNEXT gut viral genomes after deduplication (excluding external DBs) | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_GV_representatives.fna.gz) |
+| `LLNEXT_BMV_catalog.fa.gz` | LLNEXT-BMV representative viral genomes (breastmilk) | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_BMV_representatives.fna.gz) |
+| `LLNEXT_BMV_catalog_metadata.tsv` | Metadata for all LLNEXT-BMV species-level vOTUs | [Download](https://zenodo.org/record/XXXXXXX/files/LLNEXT_BMV_metadata.tsv) |
 
 ---
 
