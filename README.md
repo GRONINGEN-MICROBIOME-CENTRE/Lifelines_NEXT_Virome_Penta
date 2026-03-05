@@ -7,19 +7,25 @@ Gut virome analysis from metagenomic data in the **Lifelines NEXT (LLNEXT)** mot
   <img src="images/Overview LLNEXT.png" alt="Overview of pregnancy and early-life gut virome analysis workflow" width="900">
 </p>
 
-<p align="center">
-  Access the <b>publication</b> and <b>viral datasets</b> below
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<b>Publication</b><br>
+<a href="https://umcgresearchdatacatalogue.nl/all/cohorts/LIFELINES_NEXT">
+<img src="images/bioRxiv_logo.png" height="39">
+</a>
+</td>
 
-<p align="center">
-  <a href="https://umcgresearchdatacatalogue.nl/all/cohorts/LIFELINES_NEXT">
-    <img src="images/bioRxiv_logo.png" alt="Publication (bioRxiv)" height="39">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://doi.org/10.5281/zenodo.18874585">
-    <img src="images/zenodo_logo.png" alt="LLNEXT-GV and LLNEXT-BMV catalogs" height="45">
-  </a>
-</p>
+<td width="80"></td>
+
+<td align="center">
+<b>Viral datasets</b><br>
+<a href="https://doi.org/10.5281/zenodo.18874585">
+<img src="images/zenodo_logo.png" height="45">
+</a>
+</td>
+</tr>
+</table>
 
 ## Overview
 Here, we present a comprehensive **characterization of early-life gut virome assembly alongside maternal gut viral dynamics during pregnancy**. 
