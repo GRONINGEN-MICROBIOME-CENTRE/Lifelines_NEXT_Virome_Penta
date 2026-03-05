@@ -166,6 +166,6 @@ If you use this resource in your research, please cite both the publication and 
 
 ### Data resource
 
-> Author list to be added. (Year). **Pregnancy and Early-Life Gut Virome in the Lifelines NEXT Cohort** [Data set]. Zenodo.  
-> https://doi.org/10.5281/zenodo.XXXXXXX
+> Fernández Pato, A. (2026). **Lifelines NEXT gut (LLNEXT-GV) and breastmilk (LLNEXT-BMV) viral catalogs (v1.0)** [Data set]. Zenodo.  
+> [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.18874585)
 
