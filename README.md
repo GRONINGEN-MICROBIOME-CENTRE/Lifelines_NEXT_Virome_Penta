@@ -1,20 +1,22 @@
 # Pregnancy and Early-Life Gut Virome in the LLNEXT Cohort  
 ## Origin, Persistence, Influencing Factors, and Health Implications  
 
-Gut virome analysis from metagenomic data in the **Lifelines NEXT (LLNEXT)** mother–infant cohort.
-
-<p align="center">
-  <a href="https://umcgresearchdatacatalogue.nl/all/cohorts/LIFELINES_NEXT">
-    <img src="images/bioRxiv_logo.png" alt="Publication" height="39">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- added extra space -->
-  <a href="https://doi.org/10.5281/zenodo.18874585">
-    <img src="images/zenodo_logo.png" alt="LLNEXT-GV and LLNEXT_BMV catalogs" height="45">
-  </a>
-</p>
+Gut virome analysis from metagenomic data in the **Lifelines NEXT (LLNEXT)** mother-infant cohort.
 
 <p align="center">
   <img src="images/Overview LLNEXT.png" alt="Overview of pregnancy and early-life gut virome analysis workflow" width="900">
+</p>
+
+## Publication and Data Availability
+
+<p align="center">
+  <a href="https://umcgresearchdatacatalogue.nl/all/cohorts/LIFELINES_NEXT">
+    <img src="images/bioRxiv_logo.png" alt="Publication (bioRxiv)" height="39">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://doi.org/10.5281/zenodo.18874585">
+    <img src="images/zenodo_logo.png" alt="LLNEXT-GV and LLNEXT-BMV viral catalogs (Zenodo)" height="45">
+  </a>
 </p>
 
 ---
