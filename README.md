@@ -8,7 +8,7 @@ Gut virome analysis from metagenomic data in the **Lifelines NEXT (LLNEXT)** mot
 </p>
 
 <p align="center">
-  Find the publication and viral datasets here
+  Access the <b>publication</b> and <b>viral datasets</b> below
 </p>
 
 <p align="center">
