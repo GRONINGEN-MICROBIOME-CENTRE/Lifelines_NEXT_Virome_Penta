@@ -169,6 +169,7 @@ If you use this resource in your research, please cite both the publication and 
 > **Pregnancy and Early-Life Gut Virome in the Lifelines NEXT Cohort: Origin, Persistence, Influencing Factors, and Health Implications**  
 > Asier Fernández-Pato, Anastasia Gulyaeva†, Nataliia Kuzub†, Trishla Sinha, Siobhan Brushett, Johanne E. Spreckels, Milla Brandao Gois, Archontis Goumagias, Angel Ruiz-Moreno, Antonio Pedro Camargo, Lifelines NEXT cohort study, Jingyuan Fu, Alexander Kurilshikov, Simon Roux, Sanzhima Garmaeva‡, Alexandra Zhernakova‡  
 > bioRxiv (2026).
+> [https://doi.org/10.64898/2026.03.05.709809]_(https://doi.org/10.64898/2026.03.05.709809)
 
 ---
 
