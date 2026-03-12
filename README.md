@@ -19,7 +19,7 @@ Gut virome analysis from metagenomic data in the **Lifelines NEXT (LLNEXT)** mot
 
 <td align="center" valign="top" style="padding-left:40px;">
 <div style="margin-bottom:6px;"><b>Viral catalogs</b></div>
-<a href="https://doi.org/10.5281/zenodo.18980484">
+<a href="https://doi.org/10.5281/zenodo.18981021">
 <img src="images/zenodo_logo.png" height="45">
 </a>
 </td>
@@ -114,13 +114,13 @@ The LLNEXT gut viral (LLNEXT-GV) and breastmilk (LLNEXT-BMV) catalogs are freely
 
 | File | Description | Link |
 |------|-------------|------|
-| `LLNEXT_GV_catalog.fa.gz` | LLNEXT-GV vOTU representative viral genomes (n=31,019) | [Download](https://zenodo.org/record/18980484/files/LLNEXT_GV_catalog.fa.gz) |
-| `LLNEXT_GV_catalog_metadata.tsv` | Metadata for all LLNEXT-GV species-level vOTUs | [Download](https://zenodo.org/record/18980484/files/LLNEXT_GV_catalog_metadata.tsv) |
-| `LLNEXT_gut_viral_abundance_table.tsv` | Per-sample RPKM abundances of LLNEXT-GV vOTUs | [Download](https://zenodo.org/record/18980484/files/LLNEXT_gut_viral_abundance_table.tsv) |
-| `LLNEXT_only_gut_vOTU_representatives.fa.gz` | LLNEXT gut vOTU representative genomes (excluding external DBs) (n=27,299) | [Download](https://zenodo.org/record/18980484/files/LLNEXT_only_gut_vOTU_representatives.fa.gz) |
-| `LLNEXT_only_gut_vOTU_all_genomes.fa.gz` | LLNEXT gut viral genomes after deduplication (excluding external DBs) (n=56,197) | [Download](https://zenodo.org/record/18980484/files/LLNEXT_only_gut_vOTU_all_genomes.fa.gz) |
-| `LLNEXT_BMV_catalog.fa.gz` | LLNEXT-BMV representative viral genomes (breastmilk) (n=248) | [Download](https://zenodo.org/record/18980484/files/LLNEXT_BMV_catalog.fa.gz) |
-| `LLNEXT_BMV_catalog_metadata.tsv` | Metadata for all LLNEXT-BMV species-level vOTUs | [Download](https://zenodo.org/record/18980484/files/LLNEXT_BMV_catalog_metadata.tsv) |
+| `LLNEXT_GV_catalog.fa.gz` | LLNEXT-GV vOTU representative viral genomes (n=31,019) | [Download](https://zenodo.org/record/18981021/files/LLNEXT_GV_catalog.fa.gz) |
+| `LLNEXT_GV_catalog_metadata.tsv` | Metadata for all LLNEXT-GV species-level vOTUs | [Download](https://zenodo.org/record/18981021/files/LLNEXT_GV_catalog_metadata.tsv) |
+| `LLNEXT_gut_viral_abundance_table.tsv` | Per-sample RPKM abundances of LLNEXT-GV vOTUs | [Download](https://zenodo.org/record/18981021/files/LLNEXT_gut_viral_abundance_table.tsv) |
+| `LLNEXT_only_gut_vOTU_representatives.fa.gz` | LLNEXT gut vOTU representative genomes (excluding external DBs) (n=27,299) | [Download](https://zenodo.org/record/18981021/files/LLNEXT_only_gut_vOTU_representatives.fa.gz) |
+| `LLNEXT_only_gut_vOTU_all_genomes.fa.gz` | LLNEXT gut viral genomes after deduplication (excluding external DBs) (n=56,197) | [Download](https://zenodo.org/record/18981021/files/LLNEXT_only_gut_vOTU_all_genomes.fa.gz) |
+| `LLNEXT_BMV_catalog.fa.gz` | LLNEXT-BMV representative viral genomes (breastmilk) (n=248) | [Download](https://zenodo.org/record/18981021/files/LLNEXT_BMV_catalog.fa.gz) |
+| `LLNEXT_BMV_catalog_metadata.tsv` | Metadata for all LLNEXT-BMV species-level vOTUs | [Download](https://zenodo.org/record/18981021/files/LLNEXT_BMV_catalog_metadata.tsv) |
 
 ---
 
@@ -177,4 +177,4 @@ If you use this resource in your research, please cite both the publication and 
 ### Data resource
 
 > Fernández Pato, A. (2026). **Lifelines NEXT gut (LLNEXT-GV) and breastmilk (LLNEXT-BMV) viral catalogs (v1.0)** [Data set]. Zenodo.  
-> [https://doi.org/10.5281/zenodo.18980484](https://doi.org/10.5281/zenodo.18980484)
+> [https://doi.org/10.5281/zenodo.18981021](https://doi.org/10.5281/zenodo.18981021)
