@@ -29,7 +29,7 @@ Gut virome analysis from metagenomic data in the **Lifelines NEXT (LLNEXT)** mot
 
 ## Overview
 Here, we present a comprehensive **characterization of early-life gut virome assembly alongside maternal gut viral dynamics during pregnancy**. 
-- 🧬 **Large-scale virome profiling:** We analyzed the DNA virome from 4,523 fecal and 90 breastmilk metagenomes across 714 mother–infant pairs in the LLNEXT cohort, generating a catalog of >31,000 viral operational taxonomic units (vOTUs).
+- 🧬 **Large-scale virome profiling:** We analyzed the DNA virome from 4,523 fecal and 91 breastmilk metagenomes across 714 mother–infant pairs in the LLNEXT cohort, generating a catalog of >31,000 viral operational taxonomic units (vOTUs).
 - 🌱 **Contrasting virome dynamics:** The maternal gut virome is highly stable over time, whereas the infant gut virome undergoes rapid diversification during early life.
 - 🚼 **Drivers of infant virome development:** Delivery mode and feeding mode are the primary determinants of infant virome developmental trajectories, with additional influences from maternal parity (presence of siblings).
 - 🦠 **Virome and health outcomes:** Increased viral diversity in infancy is associated with the development of food allergy.
