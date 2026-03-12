@@ -110,7 +110,7 @@ Multiple complementary tools were used to identify viral sequences from assemble
 
 ## Data Availability
 
-The LLNEXT gut viral (LLNEXT-GV) and breastmilk (LLNEXT-BMV) catalogs, along with associated metadata and viral abundance tables, are freely available via [**Zenodo**](https://doi.org/10.5281/zenodo.18981021):
+The LLNEXT gut viral (LLNEXT-GV) and breastmilk (LLNEXT-BMV) catalogs, along with associated metadata and viral abundance table, are freely available via [**Zenodo**](https://doi.org/10.5281/zenodo.18981021):
 
 | File | Description | Link |
 |------|-------------|------|
