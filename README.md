@@ -186,7 +186,7 @@ If you use this resource in your research, please cite both the publication and 
 
 ## Contact
 
-For questions regarding the analysis workflow or datasets, please contact:
+For questions regarding the analysis workflow or datasets, please feel free to [open an issue](https://github.com/GRONINGEN-MICROBIOME-CENTRE/Lifelines_NEXT_Virome_Penta/issues) or contact:
 
 **Asier Fernández-Pato**  
 University Medical Center Groningen  
