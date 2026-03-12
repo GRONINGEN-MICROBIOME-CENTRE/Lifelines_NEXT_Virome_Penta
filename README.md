@@ -48,6 +48,7 @@ Together, these findings define the origin, dynamics, and modulating factors of 
   - [Virus Characterization](#virus-characterization)
   - [Strain-Level Profiling and Characterization of Shared Viruses](#strain-level-profiling-and-characterization-of-shared-viruses)
 - [Data Availability](#data-availability)
+- [Reproducibility](#reproducibility)
 - [Code Structure](#code-structure)
 - [Citation](#citation)
 
@@ -110,7 +111,7 @@ Multiple complementary tools were used to identify viral sequences from assemble
 
 ## Data Availability
 
-The LLNEXT gut viral (LLNEXT-GV) and breastmilk (LLNEXT-BMV) catalogs are freely available via [**Zenodo**](https://doi.org/10.5281/zenodo.18874585).
+The LLNEXT gut viral (LLNEXT-GV) and breastmilk (LLNEXT-BMV) catalogs are freely available via [**Zenodo**](https://doi.org/10.5281/zenodo.18981021).
 
 | File | Description | Link |
 |------|-------------|------|
@@ -126,7 +127,7 @@ The LLNEXT gut viral (LLNEXT-GV) and breastmilk (LLNEXT-BMV) catalogs are freely
 
 ## Reproducibility
 
-Processed datasets required to reproduce the analyses presented in this manuscript are available through the associated Zenodo repository, including all viral catalogs generated in this study, their associated metadata, and the viral abundance table derived from read mapping of fecal samples.
+Processed datasets required to reproduce the analyses presented in this manuscript are available through the associated [**Zenodo**](https://doi.org/10.5281/zenodo.18981021) repository, including all viral catalogs generated in this study, their associated metadata, and the viral abundance table derived from read mapping of fecal samples.
 
 These datasets provide the necessary inputs for the downstream analysis scripts located in:
 
