@@ -190,4 +190,4 @@ For questions regarding the analysis workflow or datasets, please contact:
 
 **Asier Fernández-Pato**  
 University Medical Center Groningen  
-📧 [asier.fernandezpato@umcg.nl](mailto:asier.fernandezpato@umcg.nl)
+📧 [a.fernandez.pato@umcg.nl](mailto:a.fernandez.pato@umcg.nl)
