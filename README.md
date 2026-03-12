@@ -126,8 +126,6 @@ The datasets provide the necessary inputs for the downstream analysis scripts lo
 
 `scripts/F_Downstream_scripts/`
 
-These scripts were used to perform the statistical analyses and generate the figures presented in the manuscript.
-
 ---
 ## Code Structure
 All scripts used in this project can be found within scripts and are organized as follows:
