@@ -177,5 +177,4 @@ If you use this resource in your research, please cite both the publication and 
 ### Data resource
 
 > Fernández Pato, A. (2026). **Lifelines NEXT gut (LLNEXT-GV) and breastmilk (LLNEXT-BMV) viral catalogs (v1.0)** [Data set]. Zenodo.  
-> [https://doi.org/10.5281/zenodo.18874585](https://doi.org/10.5281/zenodo.18874585)
-
+> [https://doi.org/10.5281/zenodo.18980484](https://doi.org/10.5281/zenodo.18980484)
